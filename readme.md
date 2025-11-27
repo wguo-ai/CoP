@@ -5,7 +5,7 @@
 <div>
     <img src='./docs/teaser.jpg'></img>
     <div style='text-align:center'>
-    <br>Observing a particle <a href='ttps://en.wikipedia.org/wiki/Wave_function_collapse'>collapses its wave function</a>.<br>Observing patches collapses an image's uncertainty.<br>
+    <br>Observing a particle <a href='https://en.wikipedia.org/wiki/Wave_function_collapse'>collapses its wave function</a>.<br>Observing patches collapses an image's uncertainty.<br>
     <b style='color:#f59ec9'>How to uncover patches in an order that minimizes image uncertainty?</b>
     </div>
     <br>
