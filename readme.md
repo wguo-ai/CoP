@@ -1,7 +1,5 @@
 # The Collapse of Patches
 
-[![arXiv](https://img.shields.io/badge/arXiv-2411.15447-f59ec9?logo=arxiv&logoColor=white&style=flat-square)]()
-
 <div>
     <img src='./docs/teaser.jpg'></img>
     <div style='text-align:center'>
