@@ -1,6 +1,6 @@
 # The Collapse of Patches
 
-[![arXiv](https://img.shields.io/badge/arXiv-2411.15447-f59ec9?logo=arxiv&logoColor=white&style=flat-square)](https://arxiv.org/abs/2511.22281)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.15447-f59ec9?logo=arxiv&logoColor=white&style=flat-square)](https://arxiv.org/abs/2511.22281) *
 
 <div>
     <img src='./docs/teaser.jpg'></img>
@@ -11,6 +11,8 @@
     <br>
     <p>We autoregressively generate rooster image patches following random order (above) and our <b style='color:#f59ec9'>collapse order</b> (below). The latter synthesizes prominent rooster features and reduces image uncertainty much more effectively.</p>
 </div>
+
+\*We have noticed that some Safari users can't view certain figures in the arxiv pdf. Here is <a href='./docs/CoP.pdf'>a compressed version of our paper</a> that works. We are working to update the arxiv files.
 
 
 ## Abstract
